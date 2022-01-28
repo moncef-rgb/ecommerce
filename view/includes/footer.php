@@ -17,7 +17,7 @@
                       <li><a href="cart.php">MyCart</a></li>
                       <li><a href="index.php">Login</a></li>
                       <li><a href="register.php">Register</a></li>
-                      <li><a href="/../projetPHP/admin/">Escpace Admin</a></li>
+                      <li><a href="/../notre_site/admin/">Escpace Admin</a></li>
                     </ul>
                   </div>
                 </div>
@@ -32,9 +32,9 @@
                     <div class="aa-footer-widget">
                       <h3>Contact Us</h3>
                       <address>
-                        <p> Ecole Nationale d'Ingénieurs de Sfax
+                        <p> Sfax,Sakiet Ezzit KLM 7
                         </p>
-                        <p><span class="fa fa-phone"></span>+216 23232323</p>
+                        <p><span class="fa fa-phone"></span>+216 50838862</p>
                         <p><span class="fa fa-envelope"></span>infoshop@gmail.com</p>
                       </address>
                       <div class="aa-footer-social"> <a href="#"><span class="fa fa-facebook"></span></a> <a href="#"><span class="fa fa-twitter"></span></a> <a href="#"><span class="fa fa-google-plus"></span></a> <a href="#"><span class="fa fa-youtube"></span></a> </div>
@@ -53,7 +53,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="aa-footer-bottom-area">
-              <p>Designed by <a href="http://www.markups.io/">InfoShop socity</a></p>
+              <p>Designed by <a href="http://www.markups.io/">Moncef Boukhris / Sourour Siala / Khouloud Yaich</a></p>
               <div class="aa-footer-payment"> <span class="fa fa-cc-mastercard"></span> <span class="fa fa-cc-visa"></span> <span class="fa fa-paypal"></span> <span class="fa fa-cc-discover"></span> </div>
             </div>
           </div>
