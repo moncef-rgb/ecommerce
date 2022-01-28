@@ -212,7 +212,7 @@ if (isset($_GET['cat'])) {
                   </div>
                 </div>
               </li>
-              <li>
+              <!-- <li>
                 <div class="aa-testimonial-single"> <img class="aa-testimonial-img" src="../view/img/eya.jpg" alt="testimonial img"> <span class="fa fa-quote-left aa-testimonial-quote"></span>
 
                   <div class="aa-testimonial-info">
@@ -220,7 +220,7 @@ if (isset($_GET['cat'])) {
                     <span>WEB DEVELLOPER</span> <a href="#">ENIS</a>
                   </div>
                 </div>
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>
