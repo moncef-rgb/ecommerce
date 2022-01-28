@@ -48,7 +48,7 @@ include("../controller/LoginController.php");
           $use=$usr->getAuth();
           $c_email=$_POST['email'];
           $c_pass=$_POST['pass'];
-          $check_customer = (DB::connect()->query("select * from customers where customer_email='$c_email' AND customer_pass='$c_pass'"))->rowCount() ;			
+          $check_customer = (DB::connect()->query("select * from customer where customer_email='$c_email' AND customer_pass='$c_pass'"))->rowCount() ;			
           if($check_customer==0){
             echo"<script>alert('Password or Email is incorrect! plz try again')</script>";
           }
