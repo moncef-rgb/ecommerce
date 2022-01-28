@@ -34,8 +34,8 @@
                       <address>
                         <p> Sfax,Sakiet Ezzit KLM 7
                         </p>
-                        <p><span class="fa fa-phone"></span>+216 23161334</p>
-                        <p><span class="fa fa-envelope"></span>dailyshop@gmail.com</p>
+                        <p><span class="fa fa-phone"></span>+216 50838862</p>
+                        <p><span class="fa fa-envelope"></span>infoshop@gmail.com</p>
                       </address>
                       <div class="aa-footer-social"> <a href="#"><span class="fa fa-facebook"></span></a> <a href="#"><span class="fa fa-twitter"></span></a> <a href="#"><span class="fa fa-google-plus"></span></a> <a href="#"><span class="fa fa-youtube"></span></a> </div>
                     </div>
