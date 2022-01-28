@@ -1,12 +1,6 @@
 <nav class="sidebar sidebar-offcanvas" id="sidebar">
         <ul class="nav">
           <li class="nav-item">
-            <a class="nav-link" href="../../../projetPHP/admin/controller/router.php?page=dashboard&type=home&action=getall">
-              <i class="ti-shield menu-icon"></i>
-              <span class="menu-title">Dashboard</span>
-            </a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
               <i class="ti-direction-alt menu-icon"></i>
               <span class="menu-title">Category</span>
@@ -45,7 +39,7 @@
               </ul>
             </div>
           </li>    
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#ui-basic4" aria-expanded="false" aria-controls="ui-basic">
               <i class="ti-shopping-cart-full menu-icon"></i>
               <span class="menu-title">Orders</span>
@@ -57,6 +51,6 @@
                 <li class="nav-item"> <a class="nav-link" href="../../admin/controller/router.php?page=order/order&type=order&action=getall">Manage Orders</a></li>
               </ul>
             </div>
-          </li> 
+          </li>  -->
         </ul>
       </nav>

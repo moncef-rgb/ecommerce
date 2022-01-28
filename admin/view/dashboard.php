@@ -1,11 +1,11 @@
 <div class="main-panel">
   <div class="content-wrapper">
 
-    <div class="row">
+    <!-- <div class="row">
       <div class="col-md-12 grid-margin">
         <div class="d-flex justify-content-between align-items-center">
           <div>
-            <h4 class="font-weight-bold mb-0">DailySHOP Dashboard</h4>
+            <h4 class="font-weight-bold mb-0"> Dashboard</h4>
           </div>
           <div>
             <button type="button" class="btn btn-primary btn-icon-text btn-rounded">
@@ -14,7 +14,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="row">
       <div class="col-md-3 grid-margin stretch-card">
@@ -25,7 +25,6 @@
               <h3 class="mb-0 mb-md-2 mb-xl-0 order-md-1 order-xl-0"><?php echo ($data['category']) ?></h3>
               <i class="ti-direction-alt icon-md text-muted mb-0 mb-md-3 mb-xl-0"></i>
             </div>
-            <p class="mb-0 mt-2 text-danger">0.12% <span class="text-black ml-1"><small>(30 days)</small></span></p>
           </div>
         </div>
       </div>
@@ -37,7 +36,6 @@
               <h3 class="mb-0 mb-md-2 mb-xl-0 order-md-1 order-xl-0"><?php echo ($data['brand']) ?></h3>
               <i class="ti-medall-alt icon-md text-muted mb-0 mb-md-3 mb-xl-0"></i>
             </div>
-            <p class="mb-0 mt-2 text-danger">0.47% <span class="text-black ml-1"><small>(30 days)</small></span></p>
           </div>
         </div>
       </div>
@@ -46,10 +44,9 @@
           <div class="card-body">
             <p class="card-title text-md-center text-xl-left">Products</p>
             <div class="d-flex flex-wrap justify-content-between justify-content-md-center justify-content-xl-between align-items-center">
-              <h3 class="mb-0 mb-md-2 mb-xl-0 order-md-1 order-xl-0"><?php echo ($data['products']) ?></h3>
+              <h3 class="mb-0 mb-md-2 mb-xl-0 order-md-1 order-xl-0"><?php echo ($data['product']) ?></h3>
               <i class="ti-layers-alt icon-md text-muted mb-0 mb-md-3 mb-xl-0"></i>
             </div>
-            <p class="mb-0 mt-2 text-success">64.00%<span class="text-black ml-1"><small>(30 days)</small></span></p>
           </div>
         </div>
       </div>
@@ -61,7 +58,6 @@
               <h3 class="mb-0 mb-md-2 mb-xl-0 order-md-1 order-xl-0"><?php echo ($data['orders']) ?></h3>
               <i class="ti-shopping-cart-full icon-md text-muted mb-0 mb-md-3 mb-xl-0"></i>
             </div>
-            <p class="mb-0 mt-2 text-success">23.00%<span class="text-black ml-1"><small>(30 days)</small></span></p>
           </div>
         </div>
       </div>
@@ -71,7 +67,7 @@
       <div class="col-md-12 grid-margin stretch-card">
         <div class="card position-relative">
           <div class="card-body" >
-            <p class="card-title" style="color:red">Registred Costumers</p>
+            <p class="card-title" style="color:#248afd">Registred Costumers</p>
             <div class="row">
               <table class="table  table-striped">
                 <thead>
@@ -85,7 +81,7 @@
                 </thead>
                 <tbody>
                 <?php 
-                $res=$data['customers'];
+                $res=$data['customer'];
                 foreach ($res as $r) { ?>
                   <tr>
                     <td class="py-1"><?php echo $r['customer_fname']?></td>
@@ -107,6 +103,6 @@
   </div>
   <!-- content-wrapper ends -->
   <!-- partial:partials/_footer.html -->
-  <?php include '/projetPHP/admin/view/footer.php'; ?>
+  <!-- <?php include '/xampp/htdocs/projetPHP/admin/view/footer.php'; ?> -->
   <!-- partial -->
 </div>

@@ -50,6 +50,6 @@
     </div>
     <!-- content-wrapper ends -->
     <!-- partial:partials/_footer.html -->
-    <?php include '/projetPHP/admin/view/footer.php'; ?>
+    <!-- <?php include '/xampp/htdocs/projetPHP/admin/view/footer.php'; ?> -->
     <!-- partial -->
 </div>

@@ -52,6 +52,6 @@
     </div>
     <!-- content-wrapper ends -->
     <!-- partial:partials/_footer.html -->
-    <?php include '/projetPHP/admin/view/footer.php'; ?>
+    <!-- <?php include '/projetPHP/admin/view/footer.php'; ?> -->
     <!-- partial -->
 </div>

@@ -30,7 +30,7 @@
                                         <td><?php echo $r['brand_id'] ?></td>
                                         <td><?php echo $r['date'] ?></td>
                                         <td><?php echo $r['product_title'] ?></td>
-                                        <td class="py-1 "> <img src="../../view/product_images/<?php echo $r['product_img1'] ?>"></td>
+                                        <td class="py-1 "> <img src="../../product_images/<?php echo $r['product_img1'] ?>"></td>
                                         
                                         <td><?php echo $r['price'] ?></td>
                                        
@@ -57,6 +57,6 @@
     </div>
     <!-- content-wrapper ends -->
     <!-- partial:partials/_footer.html -->
-    <?php include '/projetPHP/admin/view/footer.php'; ?>
+    <!-- <?php include '/projetPHP/admin/view/footer.php'; ?> -->
     <!-- partial -->
 </div>

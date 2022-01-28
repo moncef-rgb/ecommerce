@@ -70,7 +70,7 @@ if(!isset($_SESSION['username'])){
  }
  else{
     //if there is a session already he will allowed to access the amin page
-    require '/projetPHP/admin/view/main/main.php';
+    require '/xampp/htdocs/projetPHP/admin/view/main/main.php';
  }
 }
 
