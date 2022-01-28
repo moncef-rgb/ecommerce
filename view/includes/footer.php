@@ -17,7 +17,7 @@
                       <li><a href="cart.php">MyCart</a></li>
                       <li><a href="index.php">Login</a></li>
                       <li><a href="register.php">Register</a></li>
-                      <li><a href="/../notre_site/admin/">Escpace Admin</a></li>
+                      <li><a href="/projetPHP/admin/index.php">Escpace Admin</a></li>
                     </ul>
                   </div>
                 </div>

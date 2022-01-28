@@ -15,7 +15,7 @@
   <!-- inject:css -->
   <link rel="stylesheet" href="../../view/assets/css/style.css">
   <!-- endinject -->
-  <link rel="shortcut icon" href="../../view/assets/images/logo2.png" />
+  <link rel="shortcut icon" href="../../view/assets/images/logo22.png" />
 </head>
 
 <body>
