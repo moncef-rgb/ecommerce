@@ -58,13 +58,13 @@ include("funcs/funcs.php");
   <!-- END SCROLL TOP BUTTON -->
 
   <!-- Start header section -->
-  <header id="aa-header">
+  <header id="aa-header" >
     <!-- start header top  -->
     <div class="aa-header-top">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <div class="aa-header-top-area">
+            <div class="aa-header-top-area hidden">
               <!-- start header top left -->
               <div class="aa-header-top-left">
                 <!-- start language -->
@@ -93,13 +93,13 @@ include("funcs/funcs.php");
                 <!-- / currency -->
                 <!-- start cellphone -->
                 <div class="cellphone hidden-xs">
-                  <p><span class="fa fa-phone"></span>+216 23161334</p>
+                  <p class=" hidden"><span class="fa fa-phone  hidden"></span>+216 23161334</p>
                 </div>
                 <!-- / cellphone -->
               </div>
               <!-- / header top left -->
 
-              <div class="aa-header-top-right">
+              <div class="aa-header-top-right  hidden">
                 <ul class="aa-head-top-nav-right">
                   <li><a href="index.php">Home</a></li>
 
