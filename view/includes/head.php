@@ -135,8 +135,8 @@ include("funcs/funcs.php");
               <!-- logo  -->
               <div class="aa-logo">
                 <!-- Text based logo -->
-                <a href="index.html"> <span class="fa fa-shopping-cart"></span>
-                  <p>Info<strong>Shop</strong> <span>Your Shopping Partner</span></p>
+                <a href="index.html"></span>
+                  <p>Info<strong>Shop</strong></p>
                 </a>
                 <!-- img based logo -->
                 <!-- <a href="index.html"><img src="img/logo.jpg" alt="logo img"></a> -->
