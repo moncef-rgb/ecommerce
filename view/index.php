@@ -187,27 +187,27 @@ if (isset($_GET['cat'])) {
               <!-- single slide -->
 
               <li>
-                <div class="aa-testimonial-single"> <img class="aa-testimonial-img" src="../view/img/firas.jpg" alt="testimonial img"> <span class="fa fa-quote-left aa-testimonial-quote"></span>
+                <div class="aa-testimonial-single"> <img class="aa-testimonial-img" src="../view/img/nsoufa.png" alt="testimonial img"> <span class="fa fa-quote-left aa-testimonial-quote"></span>
                   <div class="aa-testimonial-info">
-                    <p>Firas Fendri</p>
+                    <p>Moncef Boukhris</p>
                     <span>WEB DEVELLOPER</span> <a href="#">ENIS</a>
                   </div>
                 </div>
               </li>
               <!-- single slide -->
               <li>
-                <div class="aa-testimonial-single"> <img class="aa-testimonial-img" src="../view/img/emna.jpg" alt="testimonial img"> <span class="fa fa-quote-left aa-testimonial-quote"></span>
+                <div class="aa-testimonial-single"> <img class="aa-testimonial-img" src="../view/img/sarsar.jpg" alt="testimonial img"> <span class="fa fa-quote-left aa-testimonial-quote"></span>
                   <div class="aa-testimonial-info">
-                    <p>Emna Belhaj</p>
+                    <p>Sourour Siala</p>
                     <span>WEB DEVELLOPER</span> <a href="#">ENIS</a>
                   </div>
                 </div>
               </li>
               <!-- single slide -->
               <li>
-                <div class="aa-testimonial-single"> <img class="aa-testimonial-img" src="../view/img/zeinab.jpg" alt="testimonial img"> <span class="fa fa-quote-left aa-testimonial-quote"></span>
+                <div class="aa-testimonial-single"> <img class="aa-testimonial-img" src="../view/img/khlayda.jpg" alt="testimonial img"> <span class="fa fa-quote-left aa-testimonial-quote"></span>
                   <div class="aa-testimonial-info">
-                    <p>Zeinab Ben abdalah</p>
+                    <p>Khouloud yaich</p>
                     <span>WEB DEVELLOPER</span> <a href="#">ENIS</a>
                   </div>
                 </div>
