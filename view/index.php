@@ -29,7 +29,6 @@ if (isset($_GET['cat'])) {
           <!-- single slide item -->
           <li>
             <div class="seq-model"> <img data-seq src="img/slider/slider-1.jpg" alt="Men slide img" /> </div>
-            <div class="seq-title"> <span data-seq>Save Up to 75% Off</span>
               <h2 data-seq>Best Collection</h2>
               <p data-seq>Shop at the lowest prices.</p>
               <a data-seq href="#" class="aa-shop-now-btn aa-secondary-btn">SHOP NOW</a>
@@ -232,7 +231,7 @@ if (isset($_GET['cat'])) {
 
 
   <!-- Client Brand -->
-  <section id="aa-client-brand">
+  <!-- <section id="aa-client-brand">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -254,11 +253,11 @@ if (isset($_GET['cat'])) {
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- / Client Brand -->
 
   <!-- Subscribe section -->
-  <section id="aa-subscribe">
+  <!-- <section id="aa-subscribe">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -273,7 +272,7 @@ if (isset($_GET['cat'])) {
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- / Subscribe section -->
 
   <?php

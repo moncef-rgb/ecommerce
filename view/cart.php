@@ -11,7 +11,7 @@ include("../controller/ProductsController.php");
 
  
   <!-- catg header banner section -->
-  <section id="aa-catg-head-banner">
+  <!-- <section id="aa-catg-head-banner">
    <img src="img/cart.jpg" alt="fashion img" height="20%" width="100%">
    <div class="aa-catg-head-banner-area">
      <div class="container">
@@ -24,7 +24,7 @@ include("../controller/ProductsController.php");
       </div>
      </div>
    </div>
-  </section>
+  </section> -->
   <!-- / catg header banner section -->
 
  <!-- Cart view section -->
@@ -104,7 +104,6 @@ include("../controller/ProductsController.php");
                       <tr>
                         <td colspan="6" class="aa-cart-view-bottom">
                         <input style="margin-left:50px" class="aa-cart-view-btn" type="submit" name="update_cart" value="Delete">  
-                        <input style="margin-left:50px" class="aa-cart-view-btn" type="submit" name="update_cart" value="Update Cart">  	
                         <input style="margin-left:50px" class="aa-cart-view-btn" type="submit" name="continue" value="Continue Shopping">
 						
                         </td>
